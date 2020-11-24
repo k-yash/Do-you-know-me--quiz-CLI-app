@@ -1,10 +1,12 @@
-CLI app on how much you know me.
+# Do you know me?
 
-1 point for every Right answer.
-Deducts 1 point for every wrong answer.
-Displays if you are a high scorer.
+**`CLI app`**  on how much you know me.
 
-Learnt about:
+* 1 point for every Right answer.
+* Deducts 1 point for every wrong answer.
+* Displays if you are a high scorer.
+
+## Learnt about:
 1. readline-sync
 2. Functions
 3. Loops
